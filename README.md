@@ -33,10 +33,7 @@ This project analyzes the Chinook sample database (a digital music store, 11 int
 
 ## Tools Used
 - MySQL, MySQL Workbench
-
-## Files
-- `chinook_analysis.sql` — full script with all 6 questions, commented
-
+  
 ## Author
 Manthan — B.Sc. Statistics (Honours), University of Delhi.
 [LinkedIn](https://www.linkedin.com/in/manthan-b2088736a)
